@@ -1,0 +1,29 @@
+h1{
+    background-color: rgb(106, 112, 112);
+    height: 200px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-decoration: overline;
+    text-shadow: 2px 2px 2px red;
+}
+
+
+p{
+    color: blue;
+}
+
+
+div{
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    border: 2px solid reds;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
