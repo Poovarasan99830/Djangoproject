@@ -20,8 +20,3 @@ def Television2(request):
 
 
 
-print("welcome.....1!")  
-print("welcome....2!")
-print("welcome...3")
-print("poovarasan feature braanch...!")
-print("welcome....4")
