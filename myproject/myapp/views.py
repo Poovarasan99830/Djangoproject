@@ -18,5 +18,5 @@ def Television2(request):
     return render(request,"bootstrap2.html")
 
 
-
+print("welcome....i update..new..")
 
