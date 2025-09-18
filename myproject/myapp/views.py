@@ -19,4 +19,5 @@ def Television2(request):
 
 
 print("welcome....i update..new..")
+print("i welcome you...next new update....")
 
